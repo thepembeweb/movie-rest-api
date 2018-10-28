@@ -39,6 +39,8 @@ $ npm start
 ## Built With
 
 * [Node.js®](https://nodejs.org/) - The JavaScript runtime used
+* [Express.js®](https://nodejs.org/) - The web application framework used
+* [Mongoose](https://mongoosejs.com/) - The MongoDB object modeling tool used
 
 ## License
 
