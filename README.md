@@ -41,6 +41,8 @@ $ npm start
 * [Node.js®](https://nodejs.org/) - The JavaScript runtime used
 * [Express.js®](https://nodejs.org/) - The web application framework used
 * [Mongoose](https://mongoosejs.com/) - The MongoDB object modeling tool used
+* [MongoDB](https://www.mongodb.com//) - The database engine used
+
 
 ## License
 
