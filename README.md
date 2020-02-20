@@ -1,6 +1,6 @@
 # Movie REST API
 
-> A movie REST API built with Node.js, Express and Mongoose.
+> A movie REST API built with Node.js, Express, Mongoose and MongoDB.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 
