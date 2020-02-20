@@ -44,10 +44,19 @@ $ npm start
 * [MongoDB](https://www.mongodb.com//) - The database engine used
 
 
+## Authors
+
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Movie REST Api](https://github.com/thepembeweb/movie-rest-api)
+
+
 ## License
 
-MIT  © [Pemberai Sweto](https://github.com/thepembeweb)
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- Copyright 2018 © [Pemberai Sweto](https://github.com/thepembeweb).
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/node/v/passport.svg
 [npm-url]: https://npmjs.org/package/datadog-metrics
+
