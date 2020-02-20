@@ -6,7 +6,7 @@
 
 [![NPM Version][npm-image]][npm-url] ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-This app showcases CRUD operations in a Node.js app with Express and Mongoose.
+This app showcases CRUD operations in a Node.js app with Express and Mongoose and MongoDB.
 
 ## Installation
 
